@@ -1,6 +1,10 @@
 This is the main file created as part of git assignment in master branch.
 
 Added this line from develop branch.
+<<<<<<< HEAD
 
 This line is aded via feature1:wq
 
+=======
+Added thsi line from feature2 branch
+>>>>>>> feature2
